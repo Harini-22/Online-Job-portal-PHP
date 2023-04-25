@@ -32,10 +32,12 @@
 ![image](https://user-images.githubusercontent.com/102860861/234304204-bcb1b7ac-42c9-456c-ae81-72836d105693.png)
 
 # successjs.php
-![image](https://user-images.githubusercontent.com/102860861/234304375-54fffb57-11c4-4d30-be6d-2893a7ff1dee.png)
+![image](https://user-images.githubusercontent.com/102860861/234306336-586aeae8-7a08-46eb-8cf0-5cf24a28f76e.png)
+
 
 # out.php
-![image](https://user-images.githubusercontent.com/102860861/234304485-152aaeab-bf56-47e2-85bd-a4a057006f79.png)
+![image](https://user-images.githubusercontent.com/102860861/234306183-2c9e13be-b89a-46b5-8ff3-09fd7c9861a1.png)
+
 
 # manage-jobs.php
 ![image](https://user-images.githubusercontent.com/102860861/234304986-510dfe4f-ac01-403a-9f39-f9e8f046af70.png)
